@@ -8,3 +8,4 @@ Through a meticulous examination of these key features, the project aims to unra
 
 The study not only seeks to understand the impact of factors such as viewer interaction (likes, dislikes, comments), content metadata (description, tags), and overall viewership on a video's trending status but also aims to provide content creators, marketers, and the YouTube community at large with valuable insights for optimizing content strategy.
 
+With a focus on enhancing our understanding of the elements contributing to a video's trendiness, the "YouTube Trending Video Analysis" project endeavours to offer actionable information for content creators and stakeholders in the online video content space.
